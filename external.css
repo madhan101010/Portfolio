@@ -5,11 +5,12 @@ body{
 	background-color: moccasin;
 }
 h1{
-	color: sandybrown; font-size: 100px;margin-inline: 450px;
+	
 }
 h2{
 	color: ghostwhite; font-size: 100px;margin-inline: 400px;
 }
+
 .row{
 	display:flex;
 	width: 70%;
@@ -28,4 +29,11 @@ h2{
 .c{
 	flex: 1;
 
+}
+.row1{
+	display: flex;
+	width: 100%;
+}
+.col1{
+	flex: 1;
 }
