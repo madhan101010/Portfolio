@@ -16,7 +16,7 @@ h2{
 	margin-inline: 195px;
 }
 .col{
-	flex:3;
+	flex:1;
 	padding: 30px;
 	margin-inline: 10px;
 	background-color: whitesmoke;
